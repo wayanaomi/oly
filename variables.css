@@ -1,0 +1,31 @@
+:root{
+
+--primary-blue:#132F57;
+--secondary-navy:#0B2344;
+
+--accent-gold:#C7A24A;
+--accent-light-gold:#D6B867;
+
+--white:#FFFFFF;
+--light-bg:#F7F8FA;
+
+--text-dark:#1B1B1B;
+--border-light:#E5E7EB;
+
+/* typography */
+--heading-font:'Poppins', sans-serif;
+--body-font:'Inter', sans-serif;
+
+/* spacing */
+--section-padding:100px;
+--container-width:1200px;
+
+/* shadows */
+--shadow-soft:0 10px 25px rgba(0,0,0,0.08);
+--shadow-hover:0 20px 40px rgba(0,0,0,0.15);
+
+/* transitions */
+--transition-fast:0.3s ease;
+--transition-smooth:0.5s ease;
+
+}
